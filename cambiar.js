@@ -7,7 +7,7 @@ let img=document.querySelector("#img");
 b1.onclick=()=>{
     img.innerHTML="<img src='200w.gif' width=300>";
   setTimeout(()=>{
-    img.innerHTML="<img src='FB_IMG_1712801408392.jpg.jpg' width=300>";
+    img.innerHTML="<img src='FB_IMG_1712801408392.jpg' width=300>";
   },500);
   
   img.style.transform="rotateY(-180deg)";
