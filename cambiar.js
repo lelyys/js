@@ -7,7 +7,7 @@ let img=document.querySelector("#img");
 b1.onclick=()=>{
     img.innerHTML="<img src='200w.gif' width=300>";
   setTimeout(()=>{
-    img.innerHTML="<img src='img1.jpg' width=300>";
+    img.innerHTML="<img src='FB_IMG_1712801408392.jpg.jpg' width=300>";
   },500);
   
   img.style.transform="rotateY(-180deg)";
@@ -24,7 +24,7 @@ b1.onclick=()=>{
 b2.onclick=()=>{
     img.innerHTML="<img src='200w.gif' width=250>";
   setTimeout(()=>{
-    img.innerHTML="<img src='img2.jpg' width=300>";
+    img.innerHTML="<img src='FB_IMG_1713230124109.jpg' width=300>";
   },500);
   
   img.style.transform="rotateY(-180deg)";
@@ -41,7 +41,7 @@ b2.onclick=()=>{
 b3.onclick=()=>{
     img.innerHTML="<img src='200w.gif' width=300>";
   setTimeout(()=>{
-    img.innerHTML="<img src='img3.jpg' width=300>";
+    img.innerHTML="<img src='FB_IMG_1713398084186.jpg' width=300>";
   },500);
   
   img.style.transform="rotateY(-180deg)";
@@ -58,7 +58,7 @@ b3.onclick=()=>{
 b4.onclick=()=>{
     img.innerHTML="<img src='200w.gif' width=300>";
   setTimeout(()=>{
-    img.innerHTML="<img src='img4.jpg' width=300>";
+    img.innerHTML="<img src='FB_IMG_1713398298742.jpg' width=300>";
   },500);
   
   img.style.transform="rotateY(-180deg)";
