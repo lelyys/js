@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+div{
+    font-size: 20px;
+    text-shadow: 2px 2px 2px darkslateblue;
+}
+
+#ec{
+  border: 1px solid silver;
+  height: 70px;
+  width: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  border-radius: 5px;
+}
+
+
+#r{
+  border: 1px solid silver;
+  height: 100px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  border-radius: 5px;
+}
