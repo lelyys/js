@@ -1,0 +1,26 @@
+table {
+border-collapse: collapse;
+border: 1px solid black;
+margin: 0 auto;
+}
+
+td {
+border: 1px solid black;
+width: 40px;
+height: 40px;
+text-align: center; 
+ }
+ h3{
+   text-shadow: 2px 2px 3px darkslateblue;
+ }
+ #fila{
+       font-size: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+ }
+  #columna{
+       font-size: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+ }
+
